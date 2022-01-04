@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "version": "1.1",
+  "name": "MemoryLess",
+  "description": "Basic memory tool like you can manage it save links and more!",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "icon.png"
+  },
+  "permissions": [
+    "tabs"
+  ]
+}
