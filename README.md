@@ -1,6 +1,6 @@
 # About the Project
 
- Chrome extension that saves sites you visit on a daily basis and allows you to save those sites to Browser Local Storage. 
+ Memoryless is a chrome extension that saves sites you visit on a daily basis and allows you to save those sites to Browser Local Storage. 
  I used <a href="https://getbootstrap.com">Bootstrap v5.1.3</a> framework for front-end.
 
 
