@@ -1,11 +1,11 @@
 {
   "manifest_version": 3,
-  "version": "1.1",
+  "version": "1.2",
   "name": "Memoryless",
-  "description": "Basic memory tool like you can manage it save links and more!",
+  "description": "Memoryless is a tool that helps you every day by storing important data in Memoryless what you want to save manually.",
   "action": {
     "default_popup": "index.html",
-    "default_icon": "icon.png"
+    "default_icon": "gear.png"
   },
   "permissions": [
     "tabs"
